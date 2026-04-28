@@ -547,7 +547,7 @@ plot_layout("stress",   "Stress")
 ![](figures/rawdata_blockA_2024.png){height="400px"}
 :::
 
-## Disease Spread as a Network{style="font-size: 0.75em;"}
+## Disease Spread as a Network{style="font-size: 0.65em;"}
 
 The spread of disease between sample locations can be represented as a **directed, weighted network**:
 
@@ -583,7 +583,7 @@ $$
 - This matrix is the network we want to visualize.
 
 
-## Discussion{style="font-size: 0.75em;"}
+## Discussion{style="font-size: 0.65em;"}
 
 Here are my current visualizations from the project:
 

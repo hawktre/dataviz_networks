@@ -5,6 +5,7 @@ author: "Trent VanHawkins"
 date: 2026-04-28
 format:
   revealjs:
+    output-file: index.html
     toc: true
     toc-depth: 1
     theme: simple

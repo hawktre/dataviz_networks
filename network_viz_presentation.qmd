@@ -530,7 +530,7 @@ plot_layout("stress",   "Stress")
 - Spreads **anisotropically** via wind.
 
 ::: {style="text-align: center;"}
-![](figures/wheat_striperust_wide.jpg){width="60%" height="350px"}
+![](figures/wheat_striperust_wide.jpg){height="350px"}
 :::
 
 
@@ -558,7 +558,7 @@ The spread of disease between sample locations can be represented as a **directe
 **Edge weight:** Probability of transmission driven by wind direction, distance, and disease intensity at the previous timepoint. 
 
 ::: {style="text-align: center;"}
-![](figures/experimental_design_2024_blockC.png){height="500px"}
+![](figures/experimental_design_2024_blockC.png){height="400px"}
 :::
 
 ## The Weighted Adjacency Matrix{style="font-size: 0.75em;"}
@@ -583,12 +583,12 @@ $$
 - This matrix is the network we want to visualize.
 
 
-## Discussion{style="font-size: 0.65em;"}
+## Discussion{style="font-size: 0.5em;"}
 
 Here are my current visualizations from the project:
 
 ::: {style="text-align: center;"}
-![](figures/spatplot_2024_A4.png)
+![](figures/spatplot_2024_A4.png){height="400px"}
 :::
 
 ::: {.fragment}

@@ -521,7 +521,7 @@ plot_layout("stress",   "Stress")
 
 # Source Detection of Aerially Dispersed Plant Pathogens {background-color="#1C3A5E"}
 
-## Background
+## Background{style="font-size: 0.8em;"}
 
 **Stripe Rust** (*Puccinia striiformis*) is a fungal pathogen of wheat that:
 
@@ -544,7 +544,7 @@ plot_layout("stress",   "Stress")
 - Disease measured as proportion of infected plant tissue
 
 ::: {style="text-align: center;"}
-![](figures/rawdata_blockA_2024.png){height="500px"}
+![](figures/rawdata_blockA_2024.png){height="400px"}
 :::
 
 ## Disease Spread as a Network{style="font-size: 0.75em;"}

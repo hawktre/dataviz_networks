@@ -535,7 +535,7 @@ plot_layout("stress",   "Stress")
 
 
 
-## The Experimental Setup{style="font-size: 0.75em;"}
+## The Experimental Setup{style="font-size: 0.6em;"}
 **Research Goal**: Determine the epidemic source
 
 - Wheat plots with **1, 2, or 4** inoculation sources
@@ -547,7 +547,7 @@ plot_layout("stress",   "Stress")
 ![](figures/rawdata_blockA_2024.png){height="400px"}
 :::
 
-## Disease Spread as a Network{style="font-size: 0.65em;"}
+## Disease Spread as a Network{style="font-size: 0.6em;"}
 
 The spread of disease between sample locations can be represented as a **directed, weighted network**:
 

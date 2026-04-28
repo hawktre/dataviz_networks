@@ -3,6 +3,5 @@
 .RData
 .Ruserdata
 data/*
-network_viz_presentation_files/*
 renv/*
 README_files/*
